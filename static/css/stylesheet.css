@@ -34,7 +34,7 @@ body {
     margin: auto;
     width: 62vh;
     height: 62vh;
-    background-image: url("./images/clock.png");
+    background-image: url("../images/clock.png");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
